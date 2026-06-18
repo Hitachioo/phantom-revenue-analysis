@@ -1,6 +1,6 @@
 ASOS Product Analytics: Inventory Optimization & Lost Revenue (Phantom Revenue) Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1Iztdftc7pRuwGKvdOL_4waT7HRiaQBZp?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iztdftc7pRuwGKvdOL_4waT7HRiaQBZp?usp=sharing)
 
 
 ## 📌 Project Overview
