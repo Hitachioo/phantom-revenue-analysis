@@ -1,6 +1,6 @@
 ASOS Product Analytics: Inventory Optimization & Lost Revenue (Phantom Revenue) Analysis
 
-[![Open In Colab](https://colab.research.google.com/drive/1Iztdftc7pRuwGKvdOL_4waT7HRiaQBZp?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_GOOGLE_COLAB_LINK_HERE](https://colab.research.google.com/drive/1Iztdftc7pRuwGKvdOL_4waT7HRiaQBZp?usp=sharing))
 
 ## 📌 Project Overview
 This project performs a comprehensive data analysis using a product dataset from the global fashion platform **ASOS**. The primary objective is to identify inefficiencies in supply chain management and stock availability by calculating **"Phantom Revenue"** (potential revenue lost due to out-of-stock sizes) and segmenting brands through a strategic price vs. stockout rate matrix.
